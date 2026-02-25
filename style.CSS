@@ -37,3 +37,7 @@ h2{
 .dark-mode section{
     background-color: #1e1e1e;
 }
+
+.dark-mode .header{
+    background-color: #1f1f1f;
+}
